@@ -1,0 +1,14 @@
+---
+title: Engelske sanger
+format:
+  html: default
+listing:
+  contents: "*.qmd"
+  type: grid
+  fields: [title]
+  sort-ui: [title , categories]
+  filter-ui: [title]
+  page-size: 66
+  categories: true
+---
+ 

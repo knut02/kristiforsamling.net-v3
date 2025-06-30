@@ -1,0 +1,35 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Sangboka"
+  author: "Jane Doe"
+  search: true
+  repo-url: https://github.com/knut02/sangboka
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+
+  navbar:
+    style: primary
+
+  sidebar:
+    style: docked
+    logo-alt: "Sangboka"
+    tools: 
+      - icon: github
+        menu: 
+          - text: "Meld in en feil"
+            href: https://github.com/knut02/sangboka/issues
+
+  chapters:
+    - index.qmd
+    - endringer.qmd
+    - ta-kontakt.qmd
+
+bibliography: references.bib
+
+format:
+  pdf: default
+  epub:
+    cover-image: cover.png
