@@ -1,5 +1,6 @@
 ---
 title: Sangboka
+number-sections: false
 format:
   html: default
 toc: false

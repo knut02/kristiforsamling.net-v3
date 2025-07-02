@@ -1,6 +1,7 @@
 ---
 title: Nedlastinger
 weight: 10
+number-sections: false
 ---
 
 **Last ned sangboka:**  

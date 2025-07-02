@@ -2,6 +2,7 @@
 title: Endringer
 toc: true
 page-layout: full
+number-sections: false
 weight: 5
 format:
     html: default
