@@ -10,7 +10,9 @@ book:
     - index.qmd
     - endringer.qmd
     - ta-kontakt.qmd
+    # ********************************************
     # Engelske sanger begynner her
+    # ********************************************
     - sanger/engelske-sanger/index.qmd
     - sanger/engelske-sanger/10000-reasons.qmd
     - sanger/engelske-sanger/a-better-life.qmd
@@ -66,7 +68,7 @@ book:
     - sanger/engelske-sanger/hosanna.qmd
     - sanger/engelske-sanger/how-great-is-our-god.qmd
     - sanger/engelske-sanger/humble-thyself.qmd
-    # I believe in Jesus
+    - sanger/engelske-sanger/i-believe-in-jesus.qmd
     - sanger/engelske-sanger/i-can-only-imagine.qmd
     - sanger/engelske-sanger/i-feel-good.qmd
     - sanger/engelske-sanger/i-hear-god-singing-to-me.qmd
