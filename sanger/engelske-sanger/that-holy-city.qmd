@@ -1,6 +1,7 @@
 ---
 title: That holy city
-categories: Engelske sanger
+categories:
+ - Engelske sanger
 ---
 
 I'm gonna view that holy city  

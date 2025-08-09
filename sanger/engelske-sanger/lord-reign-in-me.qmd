@@ -1,6 +1,7 @@
 ---
 title: Lord, reign in me
-categories: "Engelske sanger"
+categories:
+ - Engelske sanger
 ---
 
 Over all the earth,  

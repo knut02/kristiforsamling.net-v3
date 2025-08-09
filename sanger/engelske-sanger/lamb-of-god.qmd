@@ -1,6 +1,7 @@
 ---
 title: Lamb of God
-categories: "Engelske sanger"
+categories:
+ - Engelske sanger
 ---
 
 Your only Son  

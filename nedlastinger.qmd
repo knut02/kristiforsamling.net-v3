@@ -6,14 +6,17 @@ number-sections: false
 
 **Last ned sangboka:**  
 
-<i class="fas fa-book"></i><a href="/download/sangboka.epub"> epub format</a></i>
+Sangboka er tilgjengelig i to formater
 
-Du trenger et program for å åpne denne fila og lese boken. Mitt forslag vil være å velge enten Amazon sin Kindle app, eller Google sin Play Bøker. Det eksisterer så klart også andre programmer som kan åpne slike filer.
+- [epub](/download/sangboka.epub)
+- [pdf](/download/sangboka.pdf)
 
-| Plattform                                   | Mobil | Nettbrett | Windows  | Mac   | Web   |
-|----------                                   |:----: |:--------: |:--------:|:-----:|:----: |
-| Kindle        | **v** | **v**     | **v**    | **v** | **v** |
-| Google play   | **v** | **v**     | x        | x     | **v** |
+For å åpen epub fila trenger du et program som kan lese disse filene. Noen alternativer er: 
 
-**Merk:**
-    Den elektroniske boken er ikke oppdatert i forhold til sangene som er tilgjengelig på nettsiden. Nettsiden bygges automatisk, mens den elektroniske boken fremdeles bygges manuelt. 
+* Google Play bøker. Tilgjengelig som app for mobile enheter, og på internett
+* Amazon Kindle. Tilgjengelig som app for mobile enheter, og på internett
+* Apple Books, kun tilgjengelig for Apple sine egne enheter
+
+::: {.callout-note}
+Husk at Sangboka i seg selv ikke er en app. Dette betyr at du må fjerne tidligere utgaver fra appen du bruker, før du laster ned en ny.
+:::

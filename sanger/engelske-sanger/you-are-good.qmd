@@ -1,6 +1,7 @@
 ---
 title: You are good
-categories: Engelske sanger
+categories:
+ - Engelske sanger
 youtube: eiJ_7zxk0nA
 ---
 

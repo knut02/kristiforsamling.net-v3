@@ -1,6 +1,7 @@
 ---
 title: Come, now is the time to worship
-categories: "Engelske sanger"
+categories:
+ - Engelske sanger
 youtube: NPWq8eM4lu8
 ---
 

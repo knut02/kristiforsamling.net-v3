@@ -9,7 +9,6 @@ listing:
     - norske-sanger/*.md
     - engelske-sanger/*.qmd
     - julesanger/*.md
-    - skal fjernes/*.qmd
   type: grid
   grid-columns: 4
   grid-item-border: false
@@ -17,7 +16,7 @@ listing:
   filter-ui: [title , categories]
   sort-ui: false
   page-size: 66
-  categories: true
+  categories: false
 ---
 
 Her finner du alle sangene som finnes i sangboka, alfabetisk sortert på tittel. 

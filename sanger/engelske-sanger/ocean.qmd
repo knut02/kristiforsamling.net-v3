@@ -1,6 +1,7 @@
 ---
 title: Ocean
-sang-kategori: Engelske sanger
+categories:
+ - Engelske sanger
 youtube: dy9nwe9_xzw
 ---
 
